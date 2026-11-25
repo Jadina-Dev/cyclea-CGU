@@ -1,0 +1,177 @@
+================================================================================
+CONDITIONS GÉNÉRALES D'UTILISATION (CGU)
+APPLICATION MOBILE : CYCLEA
+================================================================================
+
+PRÉAMBULE
+Les présentes Conditions Générales d'Utilisation (ci-après dénommées les 
+"CGU") constituent un contrat juridique contraignant entre l'éditeur de 
+l'Application (ci-après "l'Éditeur") et toute personne physique ou morale 
+utilisant l'Application Cyclea (ci-après "l'Utilisatrice"). 
+L'Utilisatrice reconnaît avoir pris connaissance de l'intégralité des 
+présentes CGU et les accepter sans réserve, ni restriction, préalablement à 
+toute utilisation de l'Application.
+
+ARTICLE 1 : OBJET ET ACCEPTATION
+--------------------------------------------------------------------------------
+1.1. L'Application Cyclea est un outil numérique d'aide au suivi du cycle 
+menstruel, de la fertilité et de la grossesse. Elle est fournie à titre 
+gratuit et "en l'état" (as-is), sans garantie de fonctionnement ininterrompu 
+ou exempt d'erreurs.
+1.2. L'utilisation de l'Application vaut acceptation pleine et entière des 
+présentes CGU. Si l'Utilisatrice n'accepte pas ces conditions, elle a 
+l'obligation de cesser immédiatement toute utilisation de l'Application et de 
+procéder à sa désinstallation.
+1.3. L'Éditeur se réserve le droit de modifier unilatéralement les présentes 
+CGU à tout moment. Les modifications prendront effet dès leur publication sur 
+la page officielle de l'Application. L'Utilisatrice est réputée avoir accepté 
+les CGU modifiées si elle continue d'utiliser l'Application.
+
+ARTICLE 2 : AVERTISSEMENT MÉDICAL ET EXCLUSION DE RESPONSABILITÉ MÉDICALE
+--------------------------------------------------------------------------------
+2.1. L'Application Cyclea N'EST PAS UN DISPOSITIF MÉDICAL, NI UN DISPOSITIF 
+MÉDICAL DE DIAGNOSTIC. Elle ne fournit aucun diagnostic, traitement, 
+prescription, conseil médical ou avis thérapeutique.
+2.2. Les prédictions de cycle, les calculs de la fenêtre de fertilité, les 
+dates d'ovulation estimées, ainsi que toutes les informations relatives à la 
+grossesse (calcul des semaines d'aménorrhée, évolution du fœtus, suivi des 
+contractions, coups de pied, etc.) sont générés par des algorithmes 
+statistiques et fournis à titre purement informatif, éducatif et indicatif.
+2.3. AUCUNE GARANTIE DE FIABILITÉ : L'Éditeur ne garantit en aucun cas 
+l'exactitude, la précision, l'exhaustivité ou la fiabilité des calculs et des 
+informations fournies par l'Application. Des facteurs physiologiques 
+imprévisibles peuvent fausser les prédictions.
+2.4. ABSENCE DE RELATION MÉDICALE : L'utilisation de l'Application ne crée en 
+aucun cas une relation médecin-patient, sage-femme-patient ou 
+professionnel-de-santé-patient.
+2.5. INTERDICTION D'USAGE CONTRACEPTIF : L'Application NE DOIT EN AUCUN CAS 
+ÊTRE UTILISÉE COMME MOYEN DE CONTRACEPTION, ni comme outil de diagnostic 
+médical. L'Utilisatrice est seule responsable des décisions relatives à sa 
+santé, sa fertilité et sa grossesse. En cas de doute, elle doit consulter 
+impérativement un professionnel de santé.
+
+ARTICLE 3 : DONNÉES PERSONNELLES, STOCKAGE LOCAL ET VIE PRIVÉE
+--------------------------------------------------------------------------------
+3.1. ARCHITECTURE LOCALE : Toutes les données saisies (cycles, symptômes, 
+humeur, journal, données de grossesse, poids, notes) sont stockées 
+exclusivement en local sur l'appareil de l'Utilisatrice (LocalStorage). 
+L'Éditeur ne collecte, ne transfère, ne stocke et ne revend AUCUNE donnée 
+personnelle ou médicale sur des serveurs distants.
+3.2. RESPONSABILITÉ DE LA SAUVEGARDE : L'Utilisatrice est seule responsable de 
+la pérennité de ses données. L'Éditeur décline toute responsabilité en cas de 
+perte de données suite à une désinstallation, un changement d'appareil, une 
+panne matérielle, une réinitialisation système ou une manipulation erronée. 
+L'Application propose une fonction d'exportation PDF que l'Utilisatrice est 
+invitée à utiliser pour archiver ses informations.
+3.3. SÉCURITÉ DU TERMINAL : La sécurité des données dépend directement de la 
+sécurité de l'appareil de l'Utilisatrice. L'Éditeur ne saurait être tenu 
+responsable en cas d'accès non autorisé, de piratage, de perte ou de vol de 
+l'appareil.
+3.4. NOTIFICATIONS : Les fonctionnalités de rappels (règles, ovulation, 
+hydratation, etc.) sont gérées localement par le système d'exploitation de 
+l'appareil, sous réserve que l'Utilisatrice ait accordé les permissions 
+nécessaires.
+
+ARTICLE 4 : SERVICES TIERS, PUBLICITÉS ET CONSENTEMENT (GOOGLE ADMOB)
+--------------------------------------------------------------------------------
+4.1. L'Application est financée par la publicité et intègre le SDK Google 
+AdMob. Google AdMob peut collecter des identifiants publicitaires anonymes 
+(IDFA/AAID) et utiliser des cookies pour diffuser des annonces.
+4.2. Lors de la première utilisation, un formulaire de consentement (UMP - 
+User Messaging Platform) est affiché pour recueillir le consentement de 
+l'Utilisatrice conformément au RGPD/GDPR. L'Utilisatrice peut modifier ou 
+retirer son consentement à tout moment via les paramètres de l'Application ou 
+de son appareil.
+4.3. L'Éditeur décline toute responsabilité quant au contenu, aux produits ou 
+aux services proposés par les publicités de tiers. Tout litige relatif à une 
+publicité doit être adressé directement à l'annonceur concerné.
+
+ARTICLE 5 : FONCTIONNALITÉS SPÉCIFIQUES ET LIMITES
+--------------------------------------------------------------------------------
+5.1. JOURNAL DE SUIVI : L'exactitude des données saisies (saignements, 
+symptômes, rapports, exercices, sommeil, notes) relève de la seule 
+responsabilité de l'Utilisatrice.
+5.2. EXPORT PDF : La fonction d'exportation génère un document PDF à partir 
+des données locales. L'Éditeur décline toute responsabilité en cas de perte, 
+de mauvaise utilisation ou de diffusion non autorisée de ce document par 
+l'Utilisatrice.
+5.3. MULTILINGUE : L'Application supporte le français, l'anglais et l'arabe. 
+Les traductions sont fournies à titre indicatif. En cas de divergence 
+d'interprétation, la version française des présentes CGU fait foi.
+5.4. MISE À JOUR : L'Éditeur se réserve le droit de modifier, suspendre ou 
+supprimer tout ou partie des fonctionnalités de l'Application à tout moment, 
+sans préavis et sans indemnité.
+
+ARTICLE 6 : PROPRIÉTÉ INTELLECTUELLE
+--------------------------------------------------------------------------------
+6.1. L'ensemble des éléments de l'Application (code source, architecture, 
+design, logo, textes, bases de données, graphismes, icônes, polices) est la 
+propriété exclusive de l'Éditeur.
+6.2. Toute reproduction, décompilation, ingénierie inverse, modification, 
+distribution, extraction de base de données, ou utilisation non autorisée de 
+tout ou partie de l'Application est strictement interdite et pourra faire 
+l'objet de poursuites judiciaires.
+6.3. L'utilisation de l'Application ne confère à l'Utilisatrice aucun droit de 
+propriété intellectuelle sur celle-ci.
+
+ARTICLE 7 : LIMITATION ET EXCLUSION DE RESPONSABILITÉ
+--------------------------------------------------------------------------------
+DANS LES LIMITES MAXIMALES AUTORISÉES PAR LA LOI EN VIGUEUR, L'ÉDITEUR NE 
+SAURAIT ÊTRE TENU RESPONSABLE :
+7.1. De toute imprécision, erreur, omission, ou retard dans les calculs de 
+cycle, de fertilité ou de grossesse.
+7.2. De tout dommage direct, indirect, accessoire, spécial ou consécutif 
+résultant de l'utilisation ou de l'impossibilité d'utiliser l'Application, y 
+compris la perte de données, le manque à gagner, la perte d'exploitation ou 
+le préjudice moral.
+7.3. De tout préjudice physique ou moral lié à une décision de santé, 
+contraceptive ou médicale prise sur la base des informations fournies par 
+l'Application.
+7.4. Des interruptions de service liées à des problèmes réseau, des mises à 
+jour système, des défaillances de l'appareil ou des pannes de l'Éditeur.
+7.5. Des conséquences liées à l'utilisation de services tiers (Google AdMob).
+
+ARTICLE 8 : INDEMNISATION (GARANTIE D'ÉVICTION)
+--------------------------------------------------------------------------------
+L'Utilisatrice s'engage à indemniser et à dégager l'Éditeur de toute 
+responsabilité en cas de réclamation, de plainte, d'action en justice ou de 
+dommages résultant de son utilisation illicite ou abusive de l'Application, 
+de la violation des présentes CGU ou de l'atteinte aux droits de tiers.
+
+ARTICLE 9 : FORCE MAJEURE
+--------------------------------------------------------------------------------
+L'Éditeur ne pourra être tenu responsable de tout retard ou inexécution 
+résultant d'un cas de force majeure, tel que défini par la jurisprudence 
+applicable, incluant notamment les catastrophes naturelles, les pannes 
+d'électricité, les attaques informatiques, ou les décisions gouvernementales.
+
+ARTICLE 10 : DURÉE, RÉSILIATION ET MODIFICATION
+--------------------------------------------------------------------------------
+10.1. Les présentes CGU s'appliquent pendant toute la durée d'utilisation de 
+l'Application.
+10.2. L'Éditeur se réserve le droit de résilier unilatéralement l'accès à 
+l'Application en cas de manquement grave de l'Utilisatrice aux présentes CGU.
+10.3. En cas de nullité d'une ou plusieurs clauses des présentes CGU, les 
+autres clauses conserveront leur pleine force et portée.
+
+ARTICLE 11 : DROIT APPLICABLE ET JURIDICTION
+--------------------------------------------------------------------------------
+11.1. Les présentes CGU sont régies par le droit applicable au lieu 
+d'établissement de l'Éditeur.
+11.2. En cas de litige, et à défaut d'accord amiable entre les parties, les 
+tribunaux compétents du lieu d'établissement de l'Éditeur seront seuls 
+compétents pour connaître du litige.
+11.3. CONFORMITÉ LÉGALE : L'Utilisatrice reconnaît que les présentes CGU 
+n'excluent pas les garanties légales impératives dont elle pourrait bénéficier 
+en vertu de la loi applicable.
+
+ARTICLE 12 : CONTACT ET SUPPORT
+--------------------------------------------------------------------------------
+Pour toute question relative aux présentes CGU, à la protection de vos données 
+ou au fonctionnement de l'Application, vous pouvez contacter l'Éditeur :
+E-mail : jadinadev@gmail.com
+Site web : https://jd-dev070123.ai.studio
+
+================================================================================
+FIN DES CONDITIONS GÉNÉRALES D'UTILISATION
+================================================================================
